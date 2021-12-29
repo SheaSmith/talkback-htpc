@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk",
+    "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "louis-debug-x86_64": {
+      "artifactName": "louis",
+      "buildCommand": "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\lib D:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj/local/x86_64/liblouis.so",
+      "abi": "x86_64",
+      "output": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86_64\\liblouis.so"
+    },
+    "louiswrap-debug-x86_64": {
+      "artifactName": "louiswrap",
+      "buildCommand": "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dD:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\lib D:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj/local/x86_64/liblouiswrap.so",
+      "abi": "x86_64",
+      "output": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86_64\\liblouiswrap.so"
+    }
+  }
+}

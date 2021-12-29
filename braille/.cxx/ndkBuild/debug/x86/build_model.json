@@ -1,0 +1,60 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master",
+      "sdkFolder": "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates",
+      "gradleModulePathName": ":braille",
+      "moduleRootFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille",
+      "makeFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\.cxx",
+      "cxxFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx",
+      "ndkFolder": "C:\\Users\\Shea\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620",
+      "ndkVersion": "23.1.7779620",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\braille\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}

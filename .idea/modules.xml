@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/talkback-master.iml" filepath="$PROJECT_DIR$/.idea/modules/talkback-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/brailleime/talkback-master.brailleime.iml" filepath="$PROJECT_DIR$/.idea/modules/brailleime/talkback-master.brailleime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compositor/talkback-master.compositor.iml" filepath="$PROJECT_DIR$/.idea/modules/compositor/talkback-master.compositor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/talkback/talkback-master.talkback.iml" filepath="$PROJECT_DIR$/.idea/modules/talkback/talkback-master.talkback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/talkback-master.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/talkback-master.utils.iml" />
+    </modules>
+  </component>
+</project>

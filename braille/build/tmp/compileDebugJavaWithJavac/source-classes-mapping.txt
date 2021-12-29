@@ -1,0 +1,10 @@
+com/google/android/accessibility/braille/service/translate/LouisTranslation.java
+ com.google.android.accessibility.braille.service.translate.LouisTranslation
+ com.google.android.accessibility.braille.service.translate.LouisTranslation$TranslationMode
+com/google/android/accessibility/braille/service/BuildConfig.java
+ com.google.android.accessibility.braille.service.BuildConfig
+com/google/android/accessibility/braille/service/translate/TranslateUtils.java
+ com.google.android.accessibility.braille.service.translate.TranslateUtils
+com/google/android/accessibility/braille/service/translate/TranslationResult.java
+ com.google.android.accessibility.braille.service.translate.TranslationResult
+ com.google.android.accessibility.braille.service.translate.TranslationResult$1

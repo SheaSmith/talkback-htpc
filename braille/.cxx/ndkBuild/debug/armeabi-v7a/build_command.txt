@@ -1,0 +1,17 @@
+Executable : C:\Users\Shea\AppData\Local\Android\Sdk\ndk\23.1.7779620\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=D:\Users\Shea\Downloads\talkback-master\talkback-master\braille\src\main\jni\Android.mk
+NDK_APPLICATION_MK=D:\Users\Shea\Downloads\talkback-master\talkback-master\braille\src\main\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-23
+NDK_OUT=D:/Users/Shea/Downloads/talkback-master/talkback-master/braille/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=D:\Users\Shea\Downloads\talkback-master\talkback-master\braille\build\intermediates\ndkBuild\debug\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

@@ -1,0 +1,14 @@
+apply plugin: 'com.android.library'
+apply from: "../shared.gradle"
+
+android {
+    externalNativeBuild {
+        ndkBuild {
+            path file('src/main/jni/Android.mk')
+        }
+    }
+}
+
+dependencies {
+    implementation project(':utils')
+}
