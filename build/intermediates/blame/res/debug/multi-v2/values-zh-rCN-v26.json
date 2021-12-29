@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN-v26\\values-zh-rCN-v26.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-zh-rCN-v26\\values-zh-rCN-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,136,218,300",
+                        "endColumns": "80,81,81,81",
+                        "endOffsets": "131,213,295,377"
+                    }
+                }
+            ]
+        }
+    ]
+}

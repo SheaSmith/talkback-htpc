@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el-v26\\values-el-v26.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-el-v26\\values-el-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,255,349",
+                        "endColumns": "105,93,93,93",
+                        "endOffsets": "156,250,344,438"
+                    }
+                }
+            ]
+        }
+    ]
+}

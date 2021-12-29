@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="full_screen_preference_fragment_padding_on_watch">25dp</dimen>
+</resources>

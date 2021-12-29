@@ -1,0 +1,898 @@
+-- Merging decision tree log ---
+permission#com.android.talkback.permission.TALKBACK
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:12:3-17:45
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:16:7-56
+	android:protectionLevel
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:17:7-42
+	android:icon
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:15:7-36
+	android:description
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:14:7-61
+	android:name
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:13:7-47
+uses-permission#com.android.talkback.permission.TALKBACK
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:20:3-63
+	android:name
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:20:20-60
+manifest
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+MERGED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-465:12
+MERGED from [:compositor] D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-55:12
+MERGED from [:utils] D:\Users\Shea\Downloads\talkback-master\talkback-master\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Shea\.gradle\caches\transforms-3\52c7abd3741560e31067e02882de5d31\transformed\play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\079e2775fba0f99237300567b34bb2d5\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\6f105dc00a2764f1514ab1a4f93ceefe\transformed\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\11e6d37870122cda086f4606f26af3c2\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\d8ce0d447217bdea8401028903bbb8d3\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Shea\.gradle\caches\transforms-3\311ca9c9fad5c96da1c5573d30abd831\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\daedf6bc9751a977d9ef381453a8d69c\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\f7f7a62699d6aca8ccd1086de69188b6\transformed\play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\b8a55ead54cfab9748ef14f572f966e6\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Shea\.gradle\caches\transforms-3\82c2bbe8fbc1a9d45f48fd1783075b03\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\872c4b6dfa173867ac8b0915384b5978\transformed\fragment-1.2.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\033e6255fdbce1a624f17b2be4c5f9b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\575be4ed27cb06fb6d779dfbf70de957\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Shea\.gradle\caches\transforms-3\bf81d78ee8af0b65c34f941d8393ecfd\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7aa5cdebebb2c88705abe1dbcdb56800\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7b62238daf18ba1376f459f25f58ed1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\3f23553e438df9fb0451875f8c84855e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\de3467b7041ff0bc424a34096366697f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\2b8a753d6d41cb775b0c1597391bd571\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\064d3b55d3a0a8043e561b34ca85b319\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\38f04e967e7506615b01e327358d6073\transformed\activity-1.1.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\80dcd671c6a165801766649d429ea22c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\8ba832e1911577e7864b088825fbc7ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\62aae0afbb5cf9764aa4d607ce2d035e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\07f203496679e72d1d21cae4e6638454\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\fee7b0686e5b07e0ed5a96eafa496614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f84a8d31e1f3467188e6b7cbf80da55c\transformed\lifecycle-viewmodel-savedstate-1.0.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f987299fb6fbbfe35bf7f47f597c29fe\transformed\lifecycle-viewmodel-2.2.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\83d3518e93028699c00aaa4160a8f3b4\transformed\lifecycle-runtime-2.2.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\9f56e2560a26a44b3fefa7c15401b9ad\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shea\.gradle\caches\transforms-3\a537a95a4a9fe161c914cffe09848215\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\fe8c6be979b363f1ddd162c91b74d960\transformed\lifecycle-livedata-core-2.2.0-rc03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Shea\.gradle\caches\transforms-3\ed2736c2af7c67b3b3a24f4f5a0fbfe9\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\3de09631c807f294dff74e22036fe1f3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+	package
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:3-22:12
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+MERGED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:compositor] D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:compositor] D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:utils] D:\Users\Shea\Downloads\talkback-master\talkback-master\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:utils] D:\Users\Shea\Downloads\talkback-master\talkback-master\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Shea\.gradle\caches\transforms-3\52c7abd3741560e31067e02882de5d31\transformed\play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Shea\.gradle\caches\transforms-3\52c7abd3741560e31067e02882de5d31\transformed\play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\079e2775fba0f99237300567b34bb2d5\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\079e2775fba0f99237300567b34bb2d5\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\6f105dc00a2764f1514ab1a4f93ceefe\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\6f105dc00a2764f1514ab1a4f93ceefe\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\11e6d37870122cda086f4606f26af3c2\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\11e6d37870122cda086f4606f26af3c2\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\d8ce0d447217bdea8401028903bbb8d3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\d8ce0d447217bdea8401028903bbb8d3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Shea\.gradle\caches\transforms-3\311ca9c9fad5c96da1c5573d30abd831\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Shea\.gradle\caches\transforms-3\311ca9c9fad5c96da1c5573d30abd831\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\daedf6bc9751a977d9ef381453a8d69c\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\daedf6bc9751a977d9ef381453a8d69c\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\f7f7a62699d6aca8ccd1086de69188b6\transformed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\f7f7a62699d6aca8ccd1086de69188b6\transformed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\b8a55ead54cfab9748ef14f572f966e6\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\b8a55ead54cfab9748ef14f572f966e6\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Shea\.gradle\caches\transforms-3\82c2bbe8fbc1a9d45f48fd1783075b03\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Shea\.gradle\caches\transforms-3\82c2bbe8fbc1a9d45f48fd1783075b03\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\872c4b6dfa173867ac8b0915384b5978\transformed\fragment-1.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\872c4b6dfa173867ac8b0915384b5978\transformed\fragment-1.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\033e6255fdbce1a624f17b2be4c5f9b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\033e6255fdbce1a624f17b2be4c5f9b8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\575be4ed27cb06fb6d779dfbf70de957\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\575be4ed27cb06fb6d779dfbf70de957\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Shea\.gradle\caches\transforms-3\bf81d78ee8af0b65c34f941d8393ecfd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Shea\.gradle\caches\transforms-3\bf81d78ee8af0b65c34f941d8393ecfd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7aa5cdebebb2c88705abe1dbcdb56800\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7aa5cdebebb2c88705abe1dbcdb56800\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7b62238daf18ba1376f459f25f58ed1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\7b62238daf18ba1376f459f25f58ed1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\3f23553e438df9fb0451875f8c84855e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\3f23553e438df9fb0451875f8c84855e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\de3467b7041ff0bc424a34096366697f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\de3467b7041ff0bc424a34096366697f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\2b8a753d6d41cb775b0c1597391bd571\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\2b8a753d6d41cb775b0c1597391bd571\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\064d3b55d3a0a8043e561b34ca85b319\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\064d3b55d3a0a8043e561b34ca85b319\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\38f04e967e7506615b01e327358d6073\transformed\activity-1.1.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\38f04e967e7506615b01e327358d6073\transformed\activity-1.1.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\80dcd671c6a165801766649d429ea22c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\80dcd671c6a165801766649d429ea22c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\8ba832e1911577e7864b088825fbc7ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\8ba832e1911577e7864b088825fbc7ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\62aae0afbb5cf9764aa4d607ce2d035e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\62aae0afbb5cf9764aa4d607ce2d035e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\07f203496679e72d1d21cae4e6638454\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\07f203496679e72d1d21cae4e6638454\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\fee7b0686e5b07e0ed5a96eafa496614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\fee7b0686e5b07e0ed5a96eafa496614\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f84a8d31e1f3467188e6b7cbf80da55c\transformed\lifecycle-viewmodel-savedstate-1.0.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f84a8d31e1f3467188e6b7cbf80da55c\transformed\lifecycle-viewmodel-savedstate-1.0.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f987299fb6fbbfe35bf7f47f597c29fe\transformed\lifecycle-viewmodel-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\f987299fb6fbbfe35bf7f47f597c29fe\transformed\lifecycle-viewmodel-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\83d3518e93028699c00aaa4160a8f3b4\transformed\lifecycle-runtime-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\83d3518e93028699c00aaa4160a8f3b4\transformed\lifecycle-runtime-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\9f56e2560a26a44b3fefa7c15401b9ad\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\9f56e2560a26a44b3fefa7c15401b9ad\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shea\.gradle\caches\transforms-3\a537a95a4a9fe161c914cffe09848215\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Shea\.gradle\caches\transforms-3\a537a95a4a9fe161c914cffe09848215\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\fe8c6be979b363f1ddd162c91b74d960\transformed\lifecycle-livedata-core-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc03] C:\Users\Shea\.gradle\caches\transforms-3\fe8c6be979b363f1ddd162c91b74d960\transformed\lifecycle-livedata-core-2.2.0-rc03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Shea\.gradle\caches\transforms-3\ed2736c2af7c67b3b3a24f4f5a0fbfe9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Shea\.gradle\caches\transforms-3\ed2736c2af7c67b3b3a24f4f5a0fbfe9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\3de09631c807f294dff74e22036fe1f3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Shea\.gradle\caches\transforms-3\3de09631c807f294dff74e22036fe1f3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\src\main\AndroidManifest.xml
+queries
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-23:15
+intent
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:18
+action#android.intent.action.TTS_SERVICE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-72
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:21-69
+permission#${applicationId}.permission.LABELING
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-32:47
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-58
+	android:protectionLevel
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-44
+	android:icon
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-38
+	android:description
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-60
+permission#com.android.talkback.permission.LABELING
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-32:47
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-58
+	android:protectionLevel
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-44
+	android:icon
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:9-38
+	android:description
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-60
+uses-feature#android.hardware.microphone
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:9-51
+uses-feature#android.hardware.location
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-49
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:5-74
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-75
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:5-66
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-66
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:22-65
+uses-permission#${applicationId}.permission.LABELING
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:5-76
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:22-73
+uses-permission#com.android.talkback.permission.LABELING
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:5-76
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:5-80
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:5-71
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:22-68
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:5-77
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:22-74
+uses-permission#android.permission.INTERNET
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:5-67
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:67:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:5-79
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:5-81
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:5-68
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:5-77
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:22-74
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:5-75
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:22-72
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:5-98
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:22-95
+uses-feature#android.hardware.touchscreen
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:5-86:36
+	android:required
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:9-33
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-52
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:5-89:36
+	android:required
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:89:9-33
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:9-61
+uses-feature#android.hardware.bluetooth
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:91:5-93:36
+	android:required
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-33
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:92:9-50
+application
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:5-463:19
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-53:19
+MERGED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-53:19
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Shea\.gradle\caches\transforms-3\52c7abd3741560e31067e02882de5d31\transformed\play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Shea\.gradle\caches\transforms-3\52c7abd3741560e31067e02882de5d31\transformed\play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\079e2775fba0f99237300567b34bb2d5\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\079e2775fba0f99237300567b34bb2d5\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Shea\.gradle\caches\transforms-3\311ca9c9fad5c96da1c5573d30abd831\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Shea\.gradle\caches\transforms-3\311ca9c9fad5c96da1c5573d30abd831\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\daedf6bc9751a977d9ef381453a8d69c\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\daedf6bc9751a977d9ef381453a8d69c\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\b8a55ead54cfab9748ef14f572f966e6\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Shea\.gradle\caches\transforms-3\b8a55ead54cfab9748ef14f572f966e6\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Shea\.gradle\caches\transforms-3\82c2bbe8fbc1a9d45f48fd1783075b03\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Shea\.gradle\caches\transforms-3\82c2bbe8fbc1a9d45f48fd1783075b03\transformed\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\8ba832e1911577e7864b088825fbc7ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Shea\.gradle\caches\transforms-3\8ba832e1911577e7864b088825fbc7ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] C:\Users\Shea\.gradle\caches\transforms-3\0cac886709e8a72c0bf4e0d61ba2b203\transformed\core-1.5.0-alpha01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:18-44
+receiver#com.google.android.accessibility.talkback.BootReceiver
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:9-106:20
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:13-36
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:97:13-82
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-105:29
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:17-86
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:17-79
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:25-76
+category#android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:104:17-76
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:104:27-73
+service#com.google.android.marvin.talkback.TalkBackService
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:9-128:19
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:13-51
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:112:13-36
+	android:permission
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-79
+	android:settingsActivity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-88
+	android:icon
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:13-42
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:13-43
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-78
+intent-filter#action:name:android.accessibilityservice.AccessibilityService+category:name:android.accessibilityservice.category.FEEDBACK_AUDIBLE+category:name:android.accessibilityservice.category.FEEDBACK_HAPTIC+category:name:android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:13-123:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:118:17-92
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:118:25-89
+category#android.accessibilityservice.category.FEEDBACK_AUDIBLE
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:17-99
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:120:27-96
+category#android.accessibilityservice.category.FEEDBACK_HAPTIC
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:17-98
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:121:27-95
+category#android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:17-98
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:122:27-95
+meta-data#android.accessibilityservice
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-127:64
+	android:resource
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:17-61
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:17-60
+activity#com.android.talkback.TalkBackPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:9-145:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:135:13-63
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:136:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:134:13-36
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:139:13-44
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:133:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:138:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:137:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:132:13-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.accessibilityservice.SERVICE_SETTINGS
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:140:13-144:29
+action#android.intent.action.MAIN
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:17-69
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:25-66
+category#android.accessibilityservice.SERVICE_SETTINGS
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:143:17-90
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:143:27-87
+activity#com.google.android.accessibility.talkback.preference.TalkBackShortcutPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:148:9-164:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:152:13-72
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:153:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:151:13-36
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:156:13-44
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:150:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:155:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:154:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:149:13-116
+intent-filter#action:name:.TalkBackShortcutPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:159:13-163:29
+action#com.google.android.accessibility.talkback.TalkBackShortcutPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:160:17-79
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:160:25-76
+activity#com.google.android.accessibility.talkback.actor.voicecommands.SpeechRecognitionMicActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:167:9-173:20
+	android:excludeFromRecents
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:169:13-46
+	android:noHistory
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:171:13-38
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:170:13-37
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:172:13-54
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:168:13-118
+activity#com.google.android.accessibility.talkback.preference.TalkBackKeyboardShortcutPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:176:9-191:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:179:13-73
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:178:13-37
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:183:13-44
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:182:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:181:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:177:13-124
+intent-filter#action:name:.TalkBackKeyboardShortcutPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:186:13-190:29
+action#com.google.android.accessibility.talkback.TalkBackKeyboardShortcutPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:187:17-87
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:187:25-84
+activity#com.google.android.accessibility.talkback.preference.TalkBackVerbosityPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:194:9-210:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:198:13-57
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:199:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:197:13-37
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:202:13-44
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:196:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:201:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:200:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:195:13-117
+intent-filter#action:name:.TalkBackVerbosityPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:205:13-209:29
+action#com.google.android.accessibility.talkback.TalkBackVerbosityPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:206:17-80
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:206:25-77
+activity#com.google.android.accessibility.talkback.preference.TalkBackDumpAccessibilityEventActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:213:9-227:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:216:13-67
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:217:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:215:13-37
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:219:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:218:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:214:13-119
+intent-filter#action:name:.TalkBackDumpAccessibilityEventActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:222:13-226:29
+action#com.google.android.accessibility.talkback.TalkBackDumpAccessibilityEventActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:223:17-82
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:223:25-79
+activity#com.google.android.accessibility.talkback.preference.TalkBackCustomizeMenusPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:230:9-245:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:234:13-70
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:235:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:233:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:232:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:237:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:236:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:231:13-122
+intent-filter#action:name:.preference.TalkBackCustomizeMenusPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:240:13-244:29
+action#com.google.android.accessibility.talkback.preference.TalkBackCustomizeMenusPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:241:17-96
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:241:25-93
+activity#com.google.android.accessibility.talkback.preference.TalkBackContextMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:248:9-263:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:252:13-69
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:253:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:251:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:250:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:255:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:254:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:249:13-119
+intent-filter#action:name:.preference.TalkBackContextMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:258:13-262:29
+action#com.google.android.accessibility.talkback.preference.TalkBackContextMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:259:17-93
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:259:25-90
+activity#com.google.android.accessibility.talkback.preference.TalkBackNavigationMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:266:9-281:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:270:13-72
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:271:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:269:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:268:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:273:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:272:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:267:13-122
+intent-filter#action:name:.preference.TalkBackNavigationMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:276:13-280:29
+action#com.google.android.accessibility.talkback.preference.TalkBackNavigationMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:277:17-96
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:277:25-93
+activity#com.google.android.accessibility.talkback.preference.TalkBackSelectorMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:284:9-299:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:288:13-70
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:289:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:287:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:286:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:291:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:290:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:285:13-120
+intent-filter#action:name:.preference.TalkBackSelectorMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:294:13-298:29
+action#com.google.android.accessibility.talkback.preference.TalkBackSelectorMenuPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:295:17-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:295:25-91
+activity#com.google.android.accessibility.talkback.preference.TalkBackSoundAndVibrationPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:302:9-317:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:306:13-67
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:307:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:305:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:304:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:309:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:308:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:303:13-125
+intent-filter#action:name:.preference.TalkBackSoundAndVibrationPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:312:13-316:29
+action#com.google.android.accessibility.talkback.preference.TalkBackSoundAndVibrationPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:313:17-99
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:313:25-96
+activity#com.google.android.accessibility.talkback.preference.TalkBackHelpPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:320:9-335:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:324:13-74
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:325:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:323:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:322:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:327:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:326:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:321:13-112
+intent-filter#action:name:.preference.TalkBackHelpPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:330:13-334:29
+action#com.google.android.accessibility.talkback.preference.TalkBackHelpPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:331:17-86
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:331:25-83
+activity#com.google.android.accessibility.talkback.preference.TalkBackAdvancedPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:338:9-353:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:342:13-65
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:343:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:341:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:340:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:345:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:344:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:339:13-116
+intent-filter#action:name:.preference.TalkBackAdvancedPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:348:13-352:29
+action#com.google.android.accessibility.talkback.preference.TalkBackAdvancedPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:349:17-90
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:349:25-87
+activity#com.google.android.accessibility.talkback.preference.TalkBackDeveloperPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:356:9-371:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:360:13-75
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:361:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:359:13-37
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:358:13-59
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:363:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:362:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:357:13-117
+intent-filter#action:name:.TalkBackDeveloperPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:366:13-370:29
+action#com.google.android.accessibility.talkback.TalkBackDeveloperPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:367:17-80
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:367:25-77
+activity#com.google.android.accessibility.talkback.training.TrainingActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:374:9-383:20
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:379:13-43
+	android:windowSoftInputMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:381:13-55
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:378:13-36
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:382:13-44
+	android:configChanges
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:376:13-74
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:380:13-57
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:377:13-43
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:375:13-95
+activity#com.google.android.accessibility.talkback.labeling.LabelImportActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:384:9-390:20
+	android:excludeFromRecents
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:386:13-46
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:388:13-48
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:387:13-36
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:389:13-47
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:385:13-98
+activity#com.google.android.accessibility.talkback.labeling.LabelManagerSummaryActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:393:9-407:20
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:396:13-64
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:397:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:395:13-37
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:399:13-52
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:398:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:394:13-106
+intent-filter#action:name:.labeling.TalkBackSelectorPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:402:13-406:29
+action#com.google.android.accessibility.talkback.labeling.TalkBackSelectorPreferencesActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:403:17-88
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:403:25-85
+activity#com.google.android.accessibility.talkback.labeling.LabelManagerPackageActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:410:9-416:48
+	android:label
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:413:13-64
+	android:launchMode
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:414:13-43
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:412:13-37
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:416:13-45
+	android:taskAffinity
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:415:13-94
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:411:13-106
+activity#com.google.android.accessibility.talkback.preference.GestureChangeNotificationActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:419:9-428:20
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:422:13-36
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:424:13-44
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:423:13-47
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:421:13-43
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:420:13-114
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:425:13-427:29
+activity#com.google.android.accessibility.talkback.NotificationActivity
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:431:9-440:20
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:434:13-36
+	tools:ignore
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:436:13-44
+	android:theme
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:435:13-47
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:433:13-43
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:432:13-90
+provider#com.google.android.accessibility.talkback.labeling.LabelProvider
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:443:9-449:78
+	android:readPermission
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:448:13-74
+	android:authorities
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:445:13-75
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:447:13-36
+	android:directBootAware
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:446:13-43
+	android:writePermission
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:449:13-75
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:444:13-92
+provider#androidx.core.content.FileProvider
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:450:9-458:20
+	android:grantUriPermissions
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:454:13-47
+	android:authorities
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:452:13-74
+	android:exported
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:453:13-37
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:451:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:455:13-457:54
+	android:resource
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:457:17-51
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:456:17-67
+meta-data#support_lift_to_type
+ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:460:9-462:58
+	android:value
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:462:13-55
+	android:name
+		ADDED from [:talkback] D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\build\intermediates\library_manifest\debug\AndroidManifest.xml:461:13-48
+service#com.google.android.accessibility.brailleime.BrailleIme
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-27:19
+	android:enabled
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-36
+	android:label
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-61
+	android:permission
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-70
+	android:directBootAware
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-43
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-82
+intent-filter#action:name:android.view.InputMethod
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-22:29
+action#android.view.InputMethod
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-67
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-64
+meta-data#android.view.im
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-26:55
+	android:resource
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-52
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-47
+activity#com.google.android.accessibility.brailleime.settings.BrailleImePreferencesActivity
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-43:20
+	android:label
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-53
+	android:launchMode
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-43
+	android:exported
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-36
+	tools:ignore
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:13-44
+	android:configChanges
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-59
+	android:theme
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-49
+	android:taskAffinity
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-94
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-110
+intent-filter#action:name:.BrailleImePreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-42:29
+action#com.google.android.accessibility.brailleime.BrailleImePreferencesActivity
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:17-73
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:25-70
+receiver#com.google.android.accessibility.brailleime.MyPackageReplacedReceiver
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:9-52:20
+	android:enabled
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:13-35
+	android:exported
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:13-97
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-51:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:17-84
+	android:name
+		ADDED from [:brailleime] D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:25-81
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\987808825b2bd8f068c5ba4cb3fdd321\transformed\play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\Shea\.gradle\caches\transforms-3\6e2c3b332c2ff57afafefbc85a03b25f\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58

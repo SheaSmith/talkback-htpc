@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:4:5-58
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:6:3-8:39
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:6:3-8:39
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:6:3-8:39
+	android:targetSdkVersion
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:8:7-36
+	android:minSdkVersion
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:7:7-33
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:11:3-64
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:11:20-61
+application
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:13:3-51:17
+service#com.google.android.accessibility.brailleime.BrailleIme
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:14:5-26:15
+	android:enabled
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:17:9-32
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:16:9-57
+	android:permission
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:19:9-66
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:18:9-39
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:15:9-78
+intent-filter#action:name:android.view.InputMethod
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:20:7-22:23
+action#android.view.InputMethod
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:21:17-56
+meta-data#android.view.im
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:23:7-25:49
+	android:resource
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:25:11-46
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:24:11-41
+activity#com.google.android.accessibility.brailleime.settings.BrailleImePreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:27:5-41:16
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:31:9-49
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:32:9-39
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:30:9-32
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:35:9-40
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:29:9-55
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:34:9-45
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:33:9-90
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:28:9-106
+intent-filter#action:name:.BrailleImePreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:37:7-40:23
+action#com.google.android.accessibility.brailleime.BrailleImePreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:38:9-65
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:38:17-62
+category#android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:39:19-65
+receiver#com.google.android.accessibility.brailleime.MyPackageReplacedReceiver
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:43:5-49:16
+	android:enabled
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:44:9-31
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:45:9-32
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:43:15-56
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:46:7-48:23
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:47:9-76
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\brailleime\src\main\AndroidManifest.xml:47:17-73

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shea\\.gradle\\caches\\transforms-3\\11e6d37870122cda086f4606f26af3c2\\transformed\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,13,17,21",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "477,552,639,853,1079,1318",
+                        "endLines": "7,8,12,16,20,21",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "547,634,848,1074,1313,1406"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,113,204,295,386",
+                        "endColumns": "57,90,90,90,90",
+                        "endOffsets": "108,199,290,381,472"
+                    }
+                }
+            ]
+        }
+    ]
+}

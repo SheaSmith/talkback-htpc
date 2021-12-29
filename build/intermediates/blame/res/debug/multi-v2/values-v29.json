@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v29\\values-v29.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7,8,11,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,326,390,524,771",
+                        "endLines": "6,7,10,14,18",
+                        "endColumns": "10,63,10,10,10",
+                        "endOffsets": "321,385,519,766,982"
+                    },
+                    "to": {
+                        "startLines": "2,7,8,11,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,326,390,524,1223",
+                        "endLines": "6,7,10,14,26",
+                        "endColumns": "10,63,10,10,10",
+                        "endOffsets": "321,385,519,766,1434"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\brailleime\\build\\intermediates\\packaged_res\\debug\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,305",
+                        "endLines": "5,9",
+                        "endColumns": "10,10",
+                        "endOffsets": "300,502"
+                    },
+                    "to": {
+                        "startLines": "15,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "771,1021",
+                        "endLines": "18,22",
+                        "endColumns": "10,10",
+                        "endOffsets": "1016,1218"
+                    }
+                }
+            ]
+        }
+    ]
+}

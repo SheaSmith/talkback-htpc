@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-v26\\values-gu-v26.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-gu-v26\\values-gu-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,243,333",
+                        "endColumns": "97,89,89,89",
+                        "endOffsets": "148,238,328,418"
+                    }
+                }
+            ]
+        }
+    ]
+}

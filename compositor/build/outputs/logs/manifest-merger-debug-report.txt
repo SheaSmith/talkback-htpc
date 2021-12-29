@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml:2:1-67
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml:2:1-67
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml:2:1-67
+	package
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml:2:11-64
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml:2:1-67
+uses-sdk
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\compositor\src\main\AndroidManifest.xml

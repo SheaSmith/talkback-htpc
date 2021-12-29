@@ -1,0 +1,633 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:2:1-432:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:2:1-432:12
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:2:1-432:12
+	package
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:4:5-56
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:2:11-69
+queries
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:11:5-19:15
+intent
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:12:9-14:18
+action#android.intent.action.TTS_SERVICE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:13:13-72
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:13:21-69
+permission#${applicationId}.permission.LABELING
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:23:5-28:47
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:27:9-58
+	android:protectionLevel
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:28:9-44
+	android:icon
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:26:9-38
+	android:description
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:25:9-63
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:24:9-60
+uses-feature#android.hardware.microphone
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:31:62-86
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:31:19-61
+uses-feature#android.hardware.location
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:32:5-87
+	android:required
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:32:60-84
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:32:19-59
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:41:5-66
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:41:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:44:5-68
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:44:22-65
+uses-permission#${applicationId}.permission.LABELING
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:47:5-76
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:47:22-73
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:50:5-80
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:50:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:53:5-71
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:53:22-68
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:56:5-76
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:56:22-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:59:5-67
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:59:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:60:5-79
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:60:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:62:5-81
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:62:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:65:5-68
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:65:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:68:5-77
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:68:22-74
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:71:5-75
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:71:22-72
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:74:5-98
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:74:22-95
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:77:5-79:36
+	android:required
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:79:9-33
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:78:9-52
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:80:5-82:36
+	android:required
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:82:9-33
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:81:9-61
+uses-feature#android.hardware.bluetooth
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:84:5-86:36
+	android:required
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:86:9-33
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:85:9-50
+application
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:88:5-431:19
+	android:supportsRtl
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:89:9-35
+receiver#com.google.android.accessibility.talkback.BootReceiver
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:91:9-99:20
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:93:13-36
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:92:13-43
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:91:19-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:94:13-98:29
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:95:17-85
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:95:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:96:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:97:17-76
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:97:27-73
+service#com.google.android.marvin.talkback.TalkBackService
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:102:9-121:19
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:106:13-51
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:105:13-36
+	android:permission
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:107:13-79
+	android:settingsActivity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:108:13-88
+	android:icon
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:103:13-42
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:109:13-43
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:104:13-78
+intent-filter#action:name:android.accessibilityservice.AccessibilityService+category:name:android.accessibilityservice.category.FEEDBACK_AUDIBLE+category:name:android.accessibilityservice.category.FEEDBACK_HAPTIC+category:name:android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:110:13-116:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:111:17-92
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:111:25-89
+category#android.accessibilityservice.category.FEEDBACK_AUDIBLE
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:113:17-99
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:113:27-96
+category#android.accessibilityservice.category.FEEDBACK_HAPTIC
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:114:17-98
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:114:27-95
+category#android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:115:17-98
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:115:27-95
+meta-data#android.accessibilityservice
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:118:13-120:64
+	android:resource
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:120:17-61
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:119:17-60
+activity#com.android.talkback.TalkBackPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:124:9-138:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:128:13-63
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:129:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:127:13-36
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:132:13-44
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:126:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:131:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:130:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:125:13-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.accessibilityservice.SERVICE_SETTINGS
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:133:13-137:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:134:17-69
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:134:25-66
+category#android.accessibilityservice.SERVICE_SETTINGS
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:136:17-90
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:136:27-87
+activity#com.google.android.accessibility.talkback.preference.TalkBackShortcutPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:141:9-155:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:144:13-72
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:145:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:143:13-36
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:149:13-44
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:148:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:147:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:146:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:142:13-116
+intent-filter#action:name:.TalkBackShortcutPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:151:13-154:29
+action#com.google.android.accessibility.talkback.TalkBackShortcutPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:152:17-79
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:152:25-76
+activity#com.google.android.accessibility.talkback.actor.voicecommands.SpeechRecognitionMicActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:158:9-164:20
+	android:excludeFromRecents
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:160:13-46
+	android:noHistory
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:163:13-38
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:162:13-37
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:161:13-54
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:159:13-118
+activity#com.google.android.accessibility.talkback.preference.TalkBackKeyboardShortcutPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:167:9-180:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:170:13-73
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:171:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:169:13-37
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:174:13-44
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:173:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:172:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:168:13-124
+intent-filter#action:name:.TalkBackKeyboardShortcutPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:176:13-179:29
+action#com.google.android.accessibility.talkback.TalkBackKeyboardShortcutPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:177:17-87
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:177:25-84
+activity#com.google.android.accessibility.talkback.preference.TalkBackVerbosityPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:183:9-197:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:186:13-57
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:187:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:185:13-37
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:191:13-44
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:190:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:189:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:188:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:184:13-117
+intent-filter#action:name:.TalkBackVerbosityPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:193:13-196:29
+action#com.google.android.accessibility.talkback.TalkBackVerbosityPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:194:17-80
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:194:25-77
+activity#com.google.android.accessibility.talkback.preference.TalkBackDumpAccessibilityEventActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:200:9-212:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:203:13-67
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:204:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:202:13-37
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:206:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:205:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:201:13-119
+intent-filter#action:name:.TalkBackDumpAccessibilityEventActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:208:13-211:29
+action#com.google.android.accessibility.talkback.TalkBackDumpAccessibilityEventActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:209:17-82
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:209:25-79
+activity#com.google.android.accessibility.talkback.preference.TalkBackCustomizeMenusPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:215:9-228:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:219:13-70
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:220:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:218:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:217:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:222:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:221:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:216:13-122
+intent-filter#action:name:.preference.TalkBackCustomizeMenusPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:224:13-227:29
+action#com.google.android.accessibility.talkback.preference.TalkBackCustomizeMenusPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:225:17-96
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:225:25-93
+activity#com.google.android.accessibility.talkback.preference.TalkBackContextMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:231:9-244:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:235:13-69
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:236:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:234:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:233:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:238:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:237:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:232:13-119
+intent-filter#action:name:.preference.TalkBackContextMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:240:13-243:29
+action#com.google.android.accessibility.talkback.preference.TalkBackContextMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:241:17-93
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:241:25-90
+activity#com.google.android.accessibility.talkback.preference.TalkBackNavigationMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:247:9-260:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:251:13-72
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:252:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:250:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:249:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:254:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:253:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:248:13-122
+intent-filter#action:name:.preference.TalkBackNavigationMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:256:13-259:29
+action#com.google.android.accessibility.talkback.preference.TalkBackNavigationMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:257:17-96
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:257:25-93
+activity#com.google.android.accessibility.talkback.preference.TalkBackSelectorMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:263:9-276:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:267:13-70
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:268:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:266:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:265:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:270:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:269:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:264:13-120
+intent-filter#action:name:.preference.TalkBackSelectorMenuPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:272:13-275:29
+action#com.google.android.accessibility.talkback.preference.TalkBackSelectorMenuPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:273:17-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:273:25-91
+activity#com.google.android.accessibility.talkback.preference.TalkBackSoundAndVibrationPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:279:9-292:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:283:13-67
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:284:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:282:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:281:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:286:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:285:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:280:13-125
+intent-filter#action:name:.preference.TalkBackSoundAndVibrationPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:288:13-291:29
+action#com.google.android.accessibility.talkback.preference.TalkBackSoundAndVibrationPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:289:17-99
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:289:25-96
+activity#com.google.android.accessibility.talkback.preference.TalkBackHelpPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:295:9-308:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:299:13-74
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:300:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:298:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:297:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:302:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:301:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:296:13-112
+intent-filter#action:name:.preference.TalkBackHelpPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:304:13-307:29
+action#com.google.android.accessibility.talkback.preference.TalkBackHelpPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:305:17-86
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:305:25-83
+activity#com.google.android.accessibility.talkback.preference.TalkBackAdvancedPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:311:9-324:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:315:13-65
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:316:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:314:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:313:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:318:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:317:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:312:13-116
+intent-filter#action:name:.preference.TalkBackAdvancedPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:320:13-323:29
+action#com.google.android.accessibility.talkback.preference.TalkBackAdvancedPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:321:17-90
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:321:25-87
+activity#com.google.android.accessibility.talkback.preference.TalkBackDeveloperPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:327:9-340:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:331:13-75
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:332:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:330:13-37
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:329:13-59
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:334:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:333:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:328:13-117
+intent-filter#action:name:.TalkBackDeveloperPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:336:13-339:29
+action#com.google.android.accessibility.talkback.TalkBackDeveloperPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:337:17-80
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:337:25-77
+activity#com.google.android.accessibility.talkback.training.TrainingActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:343:9-352:20
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:347:13-43
+	android:windowSoftInputMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:349:13-55
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:346:13-36
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:350:13-44
+	android:configChanges
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:345:13-74
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:348:13-57
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:351:13-43
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:344:13-95
+activity#com.google.android.accessibility.talkback.labeling.LabelImportActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:354:9-359:20
+	android:excludeFromRecents
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:355:13-46
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:357:13-48
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:358:13-36
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:356:13-47
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:354:19-104
+activity#com.google.android.accessibility.talkback.labeling.LabelManagerSummaryActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:362:9-374:20
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:365:13-64
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:366:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:364:13-37
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:367:13-52
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:368:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:363:13-106
+intent-filter#action:name:.labeling.TalkBackSelectorPreferencesActivity+category:name:android.intent.category.DEFAULT
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:370:13-373:29
+action#com.google.android.accessibility.talkback.labeling.TalkBackSelectorPreferencesActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:371:17-88
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:371:25-85
+activity#com.google.android.accessibility.talkback.labeling.LabelManagerPackageActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:377:9-383:97
+	android:label
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:380:13-64
+	android:launchMode
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:381:13-43
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:379:13-37
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:382:13-45
+	android:taskAffinity
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:383:13-94
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:378:13-106
+activity#com.google.android.accessibility.talkback.preference.GestureChangeNotificationActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:386:9-395:20
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:388:13-36
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:391:13-44
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:389:13-47
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:390:13-43
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:387:13-114
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:392:13-394:29
+activity#com.google.android.accessibility.talkback.NotificationActivity
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:398:9-407:20
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:400:13-36
+	tools:ignore
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:403:13-44
+	android:theme
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:401:13-47
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:402:13-43
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:399:13-90
+provider#com.google.android.accessibility.talkback.labeling.LabelProvider
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:410:9-416:46
+	android:readPermission
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:414:13-74
+	android:authorities
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:412:13-75
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:413:13-36
+	android:directBootAware
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:416:13-43
+	android:writePermission
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:415:13-75
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:411:13-92
+provider#androidx.core.content.FileProvider
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:418:9-426:20
+	android:grantUriPermissions
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:422:13-47
+	android:authorities
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:420:13-74
+	android:exported
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:421:13-37
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:419:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:423:13-425:54
+	android:resource
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:425:17-51
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:424:17-67
+meta-data#support_lift_to_type
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:427:9-429:58
+	android:value
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:429:13-55
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:428:13-48
+uses-sdk
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml
+action#android.speech.RecognitionService
+ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:16:13-17:68
+	android:name
+		ADDED from D:\Users\Shea\Downloads\talkback-master\talkback-master\talkback\src\main\AndroidManifest.xml:17:17-65

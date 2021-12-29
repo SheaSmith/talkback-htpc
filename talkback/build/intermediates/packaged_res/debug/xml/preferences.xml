@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        android:key="@string/pref_new_feature_talkback91_entry_point_key"
+        android:title="@string/new_feature_talkback_91_title" />
+    <PreferenceCategory
+        android:key="@string/pref_category_audio_key"
+        android:title="@string/title_pref_category_audio" >
+        <ListPreference
+            android:defaultValue="@string/pref_speech_volume_default"
+            android:dialogTitle="@string/title_pref_speech_volume"
+            android:entries="@array/pref_speech_volume_entries"
+            android:entryValues="@array/pref_speech_volume_values"
+            android:key="@string/pref_speech_volume_key"
+            android:summary="%s"
+            android:title="@string/title_pref_speech_volume" />
+        <Preference
+            android:key="@string/pref_tts_settings_key"
+            android:title="@string/tts_preferences_title" />
+        <Preference
+            android:key="@string/pref_verbosity_key"
+            android:title="@string/pref_verbosity_title" >
+            <intent android:action=".TalkBackVerbosityPreferencesActivity" />
+        </Preference>
+        <SwitchPreference
+            android:title="@string/title_pref_speak_passwords_without_headphones"
+            android:summaryOff="@string/summaryOff_pref_speak_passwords_without_headphones"
+            android:summaryOn="@string/summaryOn_pref_speak_passwords_without_headphones"
+            android:key="@string/pref_speak_passwords_without_headphones"
+            />
+        <Preference
+            android:key="@string/pref_sound_and_vibration_key"
+            android:title="@string/title_pref_sound_and_vibration" >
+            <intent android:action=".preference.TalkBackSoundAndVibrationPreferencesActivity" />
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="@string/pref_category_controls_key"
+        android:title="@string/title_pref_category_controls" >
+        <Preference
+            android:key="@string/pref_category_manage_gestures_key"
+            android:title="@string/title_pref_category_manage_gestures" >
+            <intent android:action=".TalkBackShortcutPreferencesActivity" />
+        </Preference>
+        <Preference
+            android:key="@string/pref_manage_customize_menus_key"
+            android:title="@string/title_pref_manage_customize_menus" >
+            <intent android:action=".preference.TalkBackCustomizeMenusPreferencesActivity" />
+        </Preference>
+        <Preference
+            android:key="@string/pref_brailleime_key"
+            android:title="@string/title_pref_brailleime" >
+            <intent android:action=".BrailleImePreferencesActivity" />
+        </Preference>
+        <SwitchPreference
+            android:defaultValue="@bool/pref_proximity_default"
+            android:key="@string/pref_proximity_key"
+            android:title="@string/title_pref_cover_proximity_sensor" />
+    </PreferenceCategory>
+    <Preference
+        android:key="@string/pref_category_help_and_feedback_key"
+        android:title="@string/title_pref_category_tutorial_and_help"
+        app:allowDividerAbove="true">
+        <intent android:action=".preference.TalkBackHelpPreferencesActivity" />
+    </Preference>
+    <Preference
+        android:key="@string/pref_advanced_settings_key"
+        android:title="@string/title_pref_advanced_settings">
+        <intent android:action=".preference.TalkBackAdvancedPreferencesActivity" />
+    </Preference>
+    <Preference
+        android:key="@string/pref_play_store_key"
+        android:title="@string/title_pref_play_store">
+    </Preference>
+</PreferenceScreen>

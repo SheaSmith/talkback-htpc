@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shea\\.gradle\\caches\\transforms-3\\11e6d37870122cda086f4606f26af3c2\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    },
+                    "to": {
+                        "startLines": "80,83,86",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4283,4442,4613",
+                        "endLines": "82,85,88",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "4437,4608,4781"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\Shea\\Downloads\\talkback-master\\talkback-master\\talkback\\build\\intermediates\\packaged_res\\debug\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,12,19,26,30,37,47,54,61,65,72,73,74,75,76,77,78,79",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,550,932,1294,1450,1764,2313,2731,3129,3303,3641,3713,3781,3841,3900,3964,4025,4085",
+                        "endLines": "11,18,25,29,36,46,53,60,64,71,72,73,74,75,76,77,78,79",
+                        "endColumns": "19,19,19,19,19,19,19,19,19,19,71,67,59,58,63,60,59,197",
+                        "endOffsets": "545,927,1289,1445,1759,2308,2726,3124,3298,3636,3708,3776,3836,3895,3959,4020,4080,4278"
+                    }
+                }
+            ]
+        }
+    ]
+}

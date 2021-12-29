@@ -1,0 +1,377 @@
+androidx/transition/R.java
+ androidx.transition.R
+ androidx.transition.R$attr
+ androidx.transition.R$color
+ androidx.transition.R$dimen
+ androidx.transition.R$drawable
+ androidx.transition.R$id
+ androidx.transition.R$integer
+ androidx.transition.R$layout
+ androidx.transition.R$string
+ androidx.transition.R$style
+ androidx.transition.R$styleable
+com/google/android/gms/vision_common/R.java
+ com.google.android.gms.vision_common.R
+com/google/android/accessibility/talkback/R.java
+ com.google.android.accessibility.talkback.R
+ com.google.android.accessibility.talkback.R$anim
+ com.google.android.accessibility.talkback.R$animator
+ com.google.android.accessibility.talkback.R$array
+ com.google.android.accessibility.talkback.R$attr
+ com.google.android.accessibility.talkback.R$bool
+ com.google.android.accessibility.talkback.R$color
+ com.google.android.accessibility.talkback.R$dimen
+ com.google.android.accessibility.talkback.R$drawable
+ com.google.android.accessibility.talkback.R$id
+ com.google.android.accessibility.talkback.R$integer
+ com.google.android.accessibility.talkback.R$interpolator
+ com.google.android.accessibility.talkback.R$layout
+ com.google.android.accessibility.talkback.R$menu
+ com.google.android.accessibility.talkback.R$plurals
+ com.google.android.accessibility.talkback.R$raw
+ com.google.android.accessibility.talkback.R$string
+ com.google.android.accessibility.talkback.R$style
+ com.google.android.accessibility.talkback.R$styleable
+ com.google.android.accessibility.talkback.R$xml
+com/google/android/gms/phenotype/R.java
+ com.google.android.gms.phenotype.R
+androidx/cursoradapter/R.java
+ androidx.cursoradapter.R
+androidx/vectordrawable/R.java
+ androidx.vectordrawable.R
+ androidx.vectordrawable.R$attr
+ androidx.vectordrawable.R$color
+ androidx.vectordrawable.R$dimen
+ androidx.vectordrawable.R$drawable
+ androidx.vectordrawable.R$id
+ androidx.vectordrawable.R$integer
+ androidx.vectordrawable.R$layout
+ androidx.vectordrawable.R$string
+ androidx.vectordrawable.R$style
+ androidx.vectordrawable.R$styleable
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+com/android/talkback/BuildConfig.java
+ com.android.talkback.BuildConfig
+androidx/cardview/R.java
+ androidx.cardview.R
+ androidx.cardview.R$attr
+ androidx.cardview.R$color
+ androidx.cardview.R$dimen
+ androidx.cardview.R$style
+ androidx.cardview.R$styleable
+androidx/coordinatorlayout/R.java
+ androidx.coordinatorlayout.R
+ androidx.coordinatorlayout.R$attr
+ androidx.coordinatorlayout.R$color
+ androidx.coordinatorlayout.R$dimen
+ androidx.coordinatorlayout.R$drawable
+ androidx.coordinatorlayout.R$id
+ androidx.coordinatorlayout.R$integer
+ androidx.coordinatorlayout.R$layout
+ androidx.coordinatorlayout.R$string
+ androidx.coordinatorlayout.R$style
+ androidx.coordinatorlayout.R$styleable
+androidx/appcompat/R.java
+ androidx.appcompat.R
+ androidx.appcompat.R$anim
+ androidx.appcompat.R$attr
+ androidx.appcompat.R$bool
+ androidx.appcompat.R$color
+ androidx.appcompat.R$dimen
+ androidx.appcompat.R$drawable
+ androidx.appcompat.R$id
+ androidx.appcompat.R$integer
+ androidx.appcompat.R$interpolator
+ androidx.appcompat.R$layout
+ androidx.appcompat.R$string
+ androidx.appcompat.R$style
+ androidx.appcompat.R$styleable
+androidx/appcompat/resources/R.java
+ androidx.appcompat.resources.R
+ androidx.appcompat.resources.R$attr
+ androidx.appcompat.resources.R$color
+ androidx.appcompat.resources.R$dimen
+ androidx.appcompat.resources.R$drawable
+ androidx.appcompat.resources.R$id
+ androidx.appcompat.resources.R$integer
+ androidx.appcompat.resources.R$layout
+ androidx.appcompat.resources.R$string
+ androidx.appcompat.resources.R$style
+ androidx.appcompat.resources.R$styleable
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$anim
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+com/android/talkback/Manifest.java
+ com.android.talkback.Manifest
+ com.android.talkback.Manifest$permission
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+com/google/android/material/R.java
+ com.google.android.material.R
+ com.google.android.material.R$anim
+ com.google.android.material.R$animator
+ com.google.android.material.R$attr
+ com.google.android.material.R$bool
+ com.google.android.material.R$color
+ com.google.android.material.R$dimen
+ com.google.android.material.R$drawable
+ com.google.android.material.R$id
+ com.google.android.material.R$integer
+ com.google.android.material.R$interpolator
+ com.google.android.material.R$layout
+ com.google.android.material.R$plurals
+ com.google.android.material.R$string
+ com.google.android.material.R$style
+ com.google.android.material.R$styleable
+ com.google.android.material.R$xml
+androidx/interpolator/R.java
+ androidx.interpolator.R
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+com/google/android/gms/common/R.java
+ com.google.android.gms.common.R
+ com.google.android.gms.common.R$integer
+ com.google.android.gms.common.R$string
+com/google/android/accessibility/brailleime/R.java
+ com.google.android.accessibility.brailleime.R
+ com.google.android.accessibility.brailleime.R$anim
+ com.google.android.accessibility.brailleime.R$animator
+ com.google.android.accessibility.brailleime.R$array
+ com.google.android.accessibility.brailleime.R$attr
+ com.google.android.accessibility.brailleime.R$bool
+ com.google.android.accessibility.brailleime.R$color
+ com.google.android.accessibility.brailleime.R$dimen
+ com.google.android.accessibility.brailleime.R$drawable
+ com.google.android.accessibility.brailleime.R$id
+ com.google.android.accessibility.brailleime.R$integer
+ com.google.android.accessibility.brailleime.R$interpolator
+ com.google.android.accessibility.brailleime.R$layout
+ com.google.android.accessibility.brailleime.R$plurals
+ com.google.android.accessibility.brailleime.R$raw
+ com.google.android.accessibility.brailleime.R$string
+ com.google.android.accessibility.brailleime.R$style
+ com.google.android.accessibility.brailleime.R$styleable
+ com.google.android.accessibility.brailleime.R$xml
+com/google/android/accessibility/utils/R.java
+ com.google.android.accessibility.utils.R
+ com.google.android.accessibility.utils.R$anim
+ com.google.android.accessibility.utils.R$animator
+ com.google.android.accessibility.utils.R$array
+ com.google.android.accessibility.utils.R$attr
+ com.google.android.accessibility.utils.R$bool
+ com.google.android.accessibility.utils.R$color
+ com.google.android.accessibility.utils.R$dimen
+ com.google.android.accessibility.utils.R$drawable
+ com.google.android.accessibility.utils.R$id
+ com.google.android.accessibility.utils.R$integer
+ com.google.android.accessibility.utils.R$interpolator
+ com.google.android.accessibility.utils.R$layout
+ com.google.android.accessibility.utils.R$plurals
+ com.google.android.accessibility.utils.R$raw
+ com.google.android.accessibility.utils.R$string
+ com.google.android.accessibility.utils.R$style
+ com.google.android.accessibility.utils.R$styleable
+ com.google.android.accessibility.utils.R$xml
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+androidx/recyclerview/R.java
+ androidx.recyclerview.R
+ androidx.recyclerview.R$attr
+ androidx.recyclerview.R$color
+ androidx.recyclerview.R$dimen
+ androidx.recyclerview.R$drawable
+ androidx.recyclerview.R$id
+ androidx.recyclerview.R$integer
+ androidx.recyclerview.R$layout
+ androidx.recyclerview.R$string
+ androidx.recyclerview.R$style
+ androidx.recyclerview.R$styleable
+com/google/android/gms/base/R.java
+ com.google.android.gms.base.R
+ com.google.android.gms.base.R$attr
+ com.google.android.gms.base.R$color
+ com.google.android.gms.base.R$drawable
+ com.google.android.gms.base.R$id
+ com.google.android.gms.base.R$string
+ com.google.android.gms.base.R$styleable
+androidx/preference/R.java
+ androidx.preference.R
+ androidx.preference.R$anim
+ androidx.preference.R$attr
+ androidx.preference.R$bool
+ androidx.preference.R$color
+ androidx.preference.R$dimen
+ androidx.preference.R$drawable
+ androidx.preference.R$id
+ androidx.preference.R$integer
+ androidx.preference.R$interpolator
+ androidx.preference.R$layout
+ androidx.preference.R$string
+ androidx.preference.R$style
+ androidx.preference.R$styleable
+androidx/drawerlayout/R.java
+ androidx.drawerlayout.R
+ androidx.drawerlayout.R$attr
+ androidx.drawerlayout.R$color
+ androidx.drawerlayout.R$dimen
+ androidx.drawerlayout.R$drawable
+ androidx.drawerlayout.R$id
+ androidx.drawerlayout.R$integer
+ androidx.drawerlayout.R$layout
+ androidx.drawerlayout.R$string
+ androidx.drawerlayout.R$style
+ androidx.drawerlayout.R$styleable
+com/google/android/gms/flags/R.java
+ com.google.android.gms.flags.R
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/localbroadcastmanager/R.java
+ androidx.localbroadcastmanager.R
+com/google/android/gms/tasks/R.java
+ com.google.android.gms.tasks.R
+com/google/android/accessibility/compositor/R.java
+ com.google.android.accessibility.compositor.R
+ com.google.android.accessibility.compositor.R$anim
+ com.google.android.accessibility.compositor.R$animator
+ com.google.android.accessibility.compositor.R$array
+ com.google.android.accessibility.compositor.R$attr
+ com.google.android.accessibility.compositor.R$bool
+ com.google.android.accessibility.compositor.R$color
+ com.google.android.accessibility.compositor.R$dimen
+ com.google.android.accessibility.compositor.R$drawable
+ com.google.android.accessibility.compositor.R$id
+ com.google.android.accessibility.compositor.R$integer
+ com.google.android.accessibility.compositor.R$interpolator
+ com.google.android.accessibility.compositor.R$layout
+ com.google.android.accessibility.compositor.R$plurals
+ com.google.android.accessibility.compositor.R$raw
+ com.google.android.accessibility.compositor.R$string
+ com.google.android.accessibility.compositor.R$style
+ com.google.android.accessibility.compositor.R$styleable
+ com.google.android.accessibility.compositor.R$xml
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+com/android/talkback/R.java
+ com.android.talkback.R
+ com.android.talkback.R$anim
+ com.android.talkback.R$animator
+ com.android.talkback.R$array
+ com.android.talkback.R$attr
+ com.android.talkback.R$bool
+ com.android.talkback.R$color
+ com.android.talkback.R$dimen
+ com.android.talkback.R$drawable
+ com.android.talkback.R$id
+ com.android.talkback.R$integer
+ com.android.talkback.R$interpolator
+ com.android.talkback.R$layout
+ com.android.talkback.R$menu
+ com.android.talkback.R$plurals
+ com.android.talkback.R$raw
+ com.android.talkback.R$string
+ com.android.talkback.R$style
+ com.android.talkback.R$styleable
+ com.android.talkback.R$xml
+com/google/android/gms/vision/R.java
+ com.google.android.gms.vision.R
+com/google/android/gms/clearcut/R.java
+ com.google.android.gms.clearcut.R
+androidx/lifecycle/viewmodel/savedstate/R.java
+ androidx.lifecycle.viewmodel.savedstate.R
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
+androidx/viewpager2/R.java
+ androidx.viewpager2.R
+ androidx.viewpager2.R$attr
+ androidx.viewpager2.R$color
+ androidx.viewpager2.R$dimen
+ androidx.viewpager2.R$drawable
+ androidx.viewpager2.R$id
+ androidx.viewpager2.R$integer
+ androidx.viewpager2.R$layout
+ androidx.viewpager2.R$string
+ androidx.viewpager2.R$style
+ androidx.viewpager2.R$styleable

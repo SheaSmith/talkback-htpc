@@ -1,0 +1,251 @@
+com/google/android/accessibility/brailleime/translate/EditBufferSpanish.java
+ com.google.android.accessibility.brailleime.translate.EditBufferSpanish
+com/google/android/accessibility/brailleime/translate/EditBufferUeb2WithPartial.java
+ com.google.android.accessibility.brailleime.translate.EditBufferUeb2WithPartial
+com/google/android/accessibility/brailleime/tutorial/TapMeAnimationDrawable.java
+ com.google.android.accessibility.brailleime.tutorial.TapMeAnimationDrawable
+ com.google.android.accessibility.brailleime.tutorial.TapMeAnimationDrawable$1
+com/google/android/accessibility/brailleime/dialog/TalkBackOffDialog.java
+ com.google.android.accessibility.brailleime.dialog.TalkBackOffDialog
+ com.google.android.accessibility.brailleime.dialog.TalkBackOffDialog$Callback
+com/google/android/accessibility/brailleime/dialog/TalkBackSuspendDialog.java
+ com.google.android.accessibility.brailleime.dialog.TalkBackSuspendDialog
+ com.google.android.accessibility.brailleime.dialog.TalkBackSuspendDialog$Callback
+com/google/android/accessibility/brailleime/DotsLayoutDetector.java
+ com.google.android.accessibility.brailleime.DotsLayoutDetector
+ com.google.android.accessibility.brailleime.DotsLayoutDetector$1
+ com.google.android.accessibility.brailleime.DotsLayoutDetector$AutoDetectCallback
+com/google/android/accessibility/brailleime/BrailleImeLog.java
+ com.google.android.accessibility.brailleime.BrailleImeLog
+com/google/android/accessibility/brailleime/TalkBackForBrailleIme.java
+ com.google.android.accessibility.brailleime.TalkBackForBrailleIme
+ com.google.android.accessibility.brailleime.TalkBackForBrailleIme$ServiceStatus
+com/google/android/accessibility/brailleime/tutorial/DotBlockView.java
+ com.google.android.accessibility.brailleime.tutorial.DotBlockView
+com/google/android/accessibility/brailleime/translate/EditBufferCommon.java
+ com.google.android.accessibility.brailleime.translate.EditBufferCommon
+com/google/android/accessibility/brailleime/Utils.java
+ com.google.android.accessibility.brailleime.Utils
+com/google/android/accessibility/brailleime/input/MultitouchHandler.java
+ com.google.android.accessibility.brailleime.input.MultitouchHandler
+ com.google.android.accessibility.brailleime.input.MultitouchHandler$1
+ com.google.android.accessibility.brailleime.input.MultitouchHandler$HoldRecognizer
+ com.google.android.accessibility.brailleime.input.MultitouchHandler$PointerWithHistory
+ com.google.android.accessibility.brailleime.input.MultitouchHandler$Speed
+com/google/android/accessibility/brailleime/dialog/TooFewTouchPointsDialog.java
+ com.google.android.accessibility.brailleime.dialog.TooFewTouchPointsDialog
+ com.google.android.accessibility.brailleime.dialog.TooFewTouchPointsDialog$Callback
+com/google/android/accessibility/brailleime/translate/EditBufferUeb2.java
+ com.google.android.accessibility.brailleime.translate.EditBufferUeb2
+com/google/android/accessibility/brailleime/translate/BrailleTranslateUtilsUeb.java
+ com.google.android.accessibility.brailleime.translate.BrailleTranslateUtilsUeb
+com/google/android/accessibility/brailleime/dialog/TypingLanguageDialog.java
+ com.google.android.accessibility.brailleime.dialog.TypingLanguageDialog
+ com.google.android.accessibility.brailleime.dialog.TypingLanguageDialog$Callback
+com/google/android/accessibility/brailleime/tutorial/DotsFlashingAnimationView.java
+ com.google.android.accessibility.brailleime.tutorial.DotsFlashingAnimationView
+ com.google.android.accessibility.brailleime.tutorial.DotsFlashingAnimationView$1
+com/google/android/accessibility/brailleime/input/Swipe.java
+ com.google.android.accessibility.brailleime.input.Swipe
+ com.google.android.accessibility.brailleime.input.Swipe$Direction
+com/google/android/accessibility/brailleime/BrailleImeVibrator.java
+ com.google.android.accessibility.brailleime.BrailleImeVibrator
+ com.google.android.accessibility.brailleime.BrailleImeVibrator$VibrationType
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslatorSpanish.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslatorSpanish
+com/google/android/accessibility/brailleime/keyboardview/KeyboardView.java
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$1
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$2
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$3
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$4
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$KeyboardViewCallback
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$ViewContainer
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$ViewContainer$1
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$ViewContainer$Callback
+ com.google.android.accessibility.brailleime.keyboardview.KeyboardView$ViewContainer$ViewStatusCallback
+com/google/android/accessibility/brailleime/BrailleWord.java
+ com.google.android.accessibility.brailleime.BrailleWord
+com/google/android/accessibility/brailleime/settings/BrailleImePreferencesActivity.java
+ com.google.android.accessibility.brailleime.settings.BrailleImePreferencesActivity
+ com.google.android.accessibility.brailleime.settings.BrailleImePreferencesActivity$1
+ com.google.android.accessibility.brailleime.settings.BrailleImePreferencesActivity$BrailleImePrefFragment
+com/google/android/accessibility/brailleime/input/BrailleInputPlaneTablet.java
+ com.google.android.accessibility.brailleime.input.BrailleInputPlaneTablet
+com/google/android/accessibility/brailleime/translate/EditBufferStub.java
+ com.google.android.accessibility.brailleime.translate.EditBufferStub
+com/google/android/accessibility/brailleime/UserPreferences.java
+ com.google.android.accessibility.brailleime.UserPreferences
+ com.google.android.accessibility.brailleime.UserPreferences$TypingEchoMode
+com/google/android/accessibility/brailleime/EscapeReminder.java
+ com.google.android.accessibility.brailleime.EscapeReminder
+ com.google.android.accessibility.brailleime.EscapeReminder$1
+ com.google.android.accessibility.brailleime.EscapeReminder$2
+ com.google.android.accessibility.brailleime.EscapeReminder$Callback
+com/google/android/accessibility/brailleime/input/BrailleInputPlane.java
+ com.google.android.accessibility.brailleime.input.BrailleInputPlane
+ com.google.android.accessibility.brailleime.input.BrailleInputPlane$1
+ com.google.android.accessibility.brailleime.input.BrailleInputPlane$DotTarget
+ com.google.android.accessibility.brailleime.input.BrailleInputPlane$TwoStepCalibrationState
+com/google/android/accessibility/brailleime/translate/EditBuffer.java
+ com.google.android.accessibility.brailleime.translate.EditBuffer
+com/google/android/accessibility/brailleime/BrailleImeForTalkBack.java
+ com.google.android.accessibility.brailleime.BrailleImeForTalkBack
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouis.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouis
+com/google/android/accessibility/brailleime/BrailleUnicode.java
+ com.google.android.accessibility.brailleime.BrailleUnicode
+com/google/android/accessibility/brailleime/analytics/BrailleAnalyticsHelper.java
+ com.google.android.accessibility.shared.opensource.overlay.brailleime.src.main.com.google.android.accessibility.brailleime.analytics.BrailleAnalyticsHelper
+com/google/android/accessibility/brailleime/translate/EditBufferArabic.java
+ com.google.android.accessibility.brailleime.translate.EditBufferArabic
+com/google/android/accessibility/brailleime/dialog/ContextMenuDialog.java
+ com.google.android.accessibility.brailleime.dialog.ContextMenuDialog
+ com.google.android.accessibility.brailleime.dialog.ContextMenuDialog$1
+ com.google.android.accessibility.brailleime.dialog.ContextMenuDialog$Callback
+ com.google.android.accessibility.brailleime.dialog.ContextMenuDialog$MenuItem
+com/google/android/accessibility/brailleime/dialog/SeeAllActionsDialog.java
+ com.google.android.accessibility.brailleime.dialog.SeeAllActionsDialog
+ com.google.android.accessibility.brailleime.dialog.SeeAllActionsDialog$Callback
+ com.google.android.accessibility.brailleime.dialog.SeeAllActionsDialog$Gestures
+ com.google.android.accessibility.brailleime.dialog.SeeAllActionsDialog$GesturesAndActionsAdapter
+ com.google.android.accessibility.brailleime.dialog.SeeAllActionsDialog$GesturesAndActionsAdapter$ViewHolder
+com/google/android/accessibility/brailleime/input/BrailleInputPlanePhone.java
+ com.google.android.accessibility.brailleime.input.BrailleInputPlanePhone
+com/google/android/accessibility/brailleime/translate/BrailleTranslateUtilsFrench.java
+ com.google.android.accessibility.brailleime.translate.BrailleTranslateUtilsFrench
+com/google/android/accessibility/brailleime/translate/stub/Stub.java
+ com.google.android.accessibility.brailleime.translate.stub.Stub
+ com.google.android.accessibility.brailleime.translate.stub.Stub$1
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslatorFrench.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslatorFrench
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslatorUeb2.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslatorUeb2
+com/google/android/accessibility/brailleime/keyboardview/StandardKeyboardView.java
+ com.google.android.accessibility.brailleime.keyboardview.StandardKeyboardView
+com/google/android/accessibility/brailleime/input/BrailleInputView.java
+ com.google.android.accessibility.brailleime.input.BrailleInputView
+ com.google.android.accessibility.brailleime.input.BrailleInputView$1
+ com.google.android.accessibility.brailleime.input.BrailleInputView$AutoPerformerCallback
+ com.google.android.accessibility.brailleime.input.BrailleInputView$Callback
+ com.google.android.accessibility.brailleime.input.BrailleInputView$CaptionText
+ com.google.android.accessibility.brailleime.input.BrailleInputView$CaptionText$1
+ com.google.android.accessibility.brailleime.input.BrailleInputView$FingersPattern
+ com.google.android.accessibility.brailleime.input.BrailleInputView$InputViewCaption
+com/google/android/accessibility/brailleime/BuildConfig.java
+ com.google.android.accessibility.brailleime.BuildConfig
+com/google/android/accessibility/brailleime/translate/TranslatorFactory.java
+ com.google.android.accessibility.brailleime.translate.TranslatorFactory
+com/google/android/accessibility/brailleime/BrailleLanguages.java
+ com.google.android.accessibility.brailleime.BrailleLanguages
+ com.google.android.accessibility.brailleime.BrailleLanguages$1
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code$1
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code$2
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code$3
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code$4
+ com.google.android.accessibility.brailleime.BrailleLanguages$Code$5
+com/google/android/accessibility/brailleime/BrailleIme.java
+ com.google.android.accessibility.brailleime.BrailleIme
+ com.google.android.accessibility.brailleime.BrailleIme$1
+ com.google.android.accessibility.brailleime.BrailleIme$10
+ com.google.android.accessibility.brailleime.BrailleIme$11
+ com.google.android.accessibility.brailleime.BrailleIme$12
+ com.google.android.accessibility.brailleime.BrailleIme$13
+ com.google.android.accessibility.brailleime.BrailleIme$14
+ com.google.android.accessibility.brailleime.BrailleIme$15
+ com.google.android.accessibility.brailleime.BrailleIme$16
+ com.google.android.accessibility.brailleime.BrailleIme$17
+ com.google.android.accessibility.brailleime.BrailleIme$18
+ com.google.android.accessibility.brailleime.BrailleIme$2
+ com.google.android.accessibility.brailleime.BrailleIme$3
+ com.google.android.accessibility.brailleime.BrailleIme$4
+ com.google.android.accessibility.brailleime.BrailleIme$5
+ com.google.android.accessibility.brailleime.BrailleIme$6
+ com.google.android.accessibility.brailleime.BrailleIme$7
+ com.google.android.accessibility.brailleime.BrailleIme$8
+ com.google.android.accessibility.brailleime.BrailleIme$9
+ com.google.android.accessibility.brailleime.BrailleIme$ImeConnection
+ com.google.android.accessibility.brailleime.BrailleIme$OrientationSensitive
+com/google/android/accessibility/brailleime/input/AutoPerformer.java
+ com.google.android.accessibility.brailleime.input.AutoPerformer
+ com.google.android.accessibility.brailleime.input.AutoPerformer$Callback
+com/google/android/accessibility/brailleime/translate/BrailleTranslateUtilsSpanish.java
+ com.google.android.accessibility.brailleime.translate.BrailleTranslateUtilsSpanish
+com/google/android/accessibility/brailleime/TalkBackForBrailleImeInternal.java
+ com.google.android.accessibility.brailleime.TalkBackForBrailleImeInternal
+com/google/android/accessibility/brailleime/translate/EditBufferFrench.java
+ com.google.android.accessibility.brailleime.translate.EditBufferFrench
+com/google/android/accessibility/brailleime/analytics/BrailleAnalytics.java
+ com.google.android.accessibility.brailleime.analytics.BrailleAnalytics
+com/google/android/accessibility/brailleime/UserPreferencesForDots.java
+ com.google.android.accessibility.brailleime.UserPreferencesForDots
+com/google/android/accessibility/brailleime/tutorial/TutorialView.java
+ com.google.android.accessibility.brailleime.tutorial.TutorialView
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$1
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$2
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$3
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$4
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$ContextMenuOpened
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$HoldSixFingers
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$Intro
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$RotateOrientation
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$RotateOrientationContinue
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$RotateOrientationContinue$1
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$RotateOrientationContinue$2
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$SwipeDown2Fingers
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$SwipeDown3Fingers
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$SwipeLeft
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$SwipeRight
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$SwipeUp3Fingers
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TutorialCallback
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TutorialFinished
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TutorialState
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TutorialState$State
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TypeLetterA
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TypeLetterA$1
+ com.google.android.accessibility.brailleime.tutorial.TutorialView$TypeLetterBCD
+com/google/android/accessibility/brailleime/MyPackageReplacedReceiver.java
+ com.google.android.accessibility.brailleime.MyPackageReplacedReceiver
+com/google/android/accessibility/brailleime/translate/EditBufferUeb1.java
+ com.google.android.accessibility.brailleime.translate.EditBufferUeb1
+com/google/android/accessibility/brailleime/BrailleCharacter.java
+ com.google.android.accessibility.brailleime.BrailleCharacter
+com/google/android/accessibility/brailleime/keyboardview/AccessibilityOverlayKeyboardView.java
+ com.google.android.accessibility.brailleime.keyboardview.AccessibilityOverlayKeyboardView
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslatorUeb1.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslatorUeb1
+com/google/android/accessibility/brailleime/translate/Translator.java
+ com.google.android.accessibility.brailleime.translate.Translator
+com/google/android/accessibility/brailleime/Dialogs.java
+ com.google.android.accessibility.brailleime.Dialogs
+com/google/android/accessibility/brailleime/tutorial/TutorialAnimationView.java
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView$1
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView$ActionResult
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView$HintToast
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView$SwipeAnimation
+ com.google.android.accessibility.brailleime.tutorial.TutorialAnimationView$SwipeAnimation$Direction
+com/google/android/accessibility/brailleime/input/BrailleInputPlaneResult.java
+ com.google.android.accessibility.brailleime.input.BrailleInputPlaneResult
+ com.google.android.accessibility.brailleime.input.BrailleInputPlaneResult$Type
+com/google/android/accessibility/brailleime/OrientationMonitor.java
+ com.google.android.accessibility.brailleime.OrientationMonitor
+ com.google.android.accessibility.brailleime.OrientationMonitor$1
+ com.google.android.accessibility.brailleime.OrientationMonitor$Callback
+ com.google.android.accessibility.brailleime.OrientationMonitor$Orientation
+com/google/android/accessibility/brailleime/dialog/ViewAttachedDialog.java
+ com.google.android.accessibility.brailleime.dialog.ViewAttachedDialog
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslatorArabic.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslatorArabic
+com/google/android/accessibility/brailleime/translate/BrailleTranslateUtils.java
+ com.google.android.accessibility.brailleime.translate.BrailleTranslateUtils
+com/google/android/accessibility/brailleime/Constants.java
+ com.google.android.accessibility.brailleime.Constants
+com/google/android/accessibility/brailleime/DotsLayout.java
+ com.google.android.accessibility.brailleime.DotsLayout
+com/google/android/accessibility/brailleime/input/MultitouchResult.java
+ com.google.android.accessibility.brailleime.input.MultitouchResult
+ com.google.android.accessibility.brailleime.input.MultitouchResult$Type
+com/google/android/accessibility/brailleime/translate/liblouis/LibLouisTranslator.java
+ com.google.android.accessibility.brailleime.translate.liblouis.LibLouisTranslator

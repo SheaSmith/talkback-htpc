@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shortcut_basic_navigation">
+        <item>@string/shortcut_perform_click_action</item>
+        <item>@string/shortcut_perform_long_click_action</item>
+        <item>@string/shortcut_previous</item>
+        <item>@string/shortcut_next</item>
+        <item>@string/shortcut_first_in_screen</item>
+        <item>@string/shortcut_last_in_screen</item>
+        <item>@string/shortcut_scroll_back</item>
+        <item>@string/shortcut_scroll_forward</item>
+    </string-array>
+    <string-array name="shortcut_menu_control">
+        <item>@string/shortcut_talkback_breakout</item>
+        <item>@string/shortcut_select_previous_setting</item>
+        <item>@string/shortcut_select_next_setting</item>
+        <item>@string/shortcut_selected_setting_previous_action</item>
+        <item>@string/shortcut_selected_setting_next_action</item>
+    </string-array>
+    <string-array name="shortcut_reading_control">
+        <item>@string/shortcut_read_from_top</item>
+        <item>@string/shortcut_read_from_current</item>
+        <item>@string/shortcut_pause_or_resume_feedback</item>
+        <item>@string/shortcut_toggle_voice_feedback</item>
+        <item>@string/shortcut_show_language_options</item>
+    </string-array>
+    <string-array name="shortcut_system_actions">
+        <item>@string/shortcut_home</item>
+        <item>@string/shortcut_back</item>
+    </string-array>
+    <string-array name="shortcut_text_editing">
+        <item>@string/title_edittext_breakout_start_selection_mode</item>
+        <item>@android:string/copy</item>
+        <item>@android:string/cut</item>
+        <item>@android:string/paste</item>
+        <item>@string/shortcut_editing</item>
+    </string-array>
+    <string-array name="shortcut_value_basic_navigation">
+        <item>@string/shortcut_value_perform_click_action</item>
+        <item>@string/shortcut_value_perform_long_click_action</item>
+        <item>@string/shortcut_value_previous</item>
+        <item>@string/shortcut_value_next</item>
+        <item>@string/shortcut_value_first_in_screen</item>
+        <item>@string/shortcut_value_last_in_screen</item>
+        <item>@string/shortcut_value_scroll_back</item>
+        <item>@string/shortcut_value_scroll_forward</item>
+    </string-array>
+    <string-array name="shortcut_value_menu_control">
+        <item>@string/shortcut_value_talkback_breakout</item>
+        <item>@string/shortcut_value_select_previous_setting</item>
+        <item>@string/shortcut_value_select_next_setting</item>
+        <item>@string/shortcut_value_selected_setting_previous_action</item>
+        <item>@string/shortcut_value_selected_setting_next_action</item>
+    </string-array>
+    <string-array name="shortcut_value_reading_control">
+        <item>@string/shortcut_value_read_from_top</item>
+        <item>@string/shortcut_value_read_from_current</item>
+        <item>@string/shortcut_value_pause_or_resume_feedback</item>
+        <item>@string/shortcut_value_toggle_voice_feedback</item>
+        <item>@string/shortcut_value_show_language_options</item>
+    </string-array>
+    <string-array name="shortcut_value_system_actions">
+        <item>@string/shortcut_value_home</item>
+        <item>@string/shortcut_value_back</item>
+    </string-array>
+    <string-array name="shortcut_value_text_editing">
+        <item>@string/shortcut_value_start_selection_mode</item>
+        <item>@string/shortcut_value_copy</item>
+        <item>@string/shortcut_value_cut</item>
+        <item>@string/shortcut_value_paste</item>
+        <item>@string/shortcut_value_editing</item>
+    </string-array>
+    <color name="actionBarTextColorPrimary">@color/google_white</color>
+    <color name="alert_dialog_bg_color">@color/google_black</color>
+    <color name="colorAccent">@color/google_blue600</color>
+    <color name="text_color">@color/google_grey200</color>
+    <dimen name="quick_menu_overlay_padding_bottom">6dp</dimen>
+    <dimen name="quick_menu_overlay_padding_top">6dp</dimen>
+    <dimen name="quick_menu_overlay_text_size">18sp</dimen>
+    <string name="talkback_service_description">TalkBack is a screen reader primarily for people with blindness and low vision. It allows interaction with the device using spoken feedback.</string>
+</resources>
